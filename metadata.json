@@ -1,0 +1,6 @@
+{
+  "name": "PythonPilot",
+  "description": "Interactive Python Learning Platform with Live Code Execution, Lessons, and AI Tutor",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
